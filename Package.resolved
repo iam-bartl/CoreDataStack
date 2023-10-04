@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Identifier",
+        "repositoryURL": "https://github.com/iam-bartl/Identifier.git",
+        "state": {
+          "branch": "main",
+          "revision": "7f84f3dbd46970cb1e503d2d51e6ab64bc623ee5",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
